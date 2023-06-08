@@ -68,4 +68,10 @@ input{
     .elements{
         @apply flex flex-col;
     }
+    .first{
+        @apply w-[300px] h-[100px] rounded-[40px]
+    }
+    .second{
+        @apply w-[200px] h-[100px] rounded-[40px]
+    }
 }
