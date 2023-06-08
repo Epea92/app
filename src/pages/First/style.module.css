@@ -38,7 +38,7 @@ input{
     @apply mt-[30px] text-white text-5xl;
 }
 .sa{
-    @apply ml-[80%] text-green-600 mt-[47px] cursor-pointer;
+    @apply flex flex-row ml-[80%] text-green-600 mt-[47px] cursor-pointer;
 }
 .twoElement{
     @apply mt-[20px] flex flex-row;
