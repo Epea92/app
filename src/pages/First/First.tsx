@@ -15,7 +15,7 @@ function First(){
                 </div>
                 <div className={style.inputMenu}>
                     <div className={style.l1}></div>
-                    <div className={style.input}><input placeholder={'Search Anything'}/></div>
+                    <div className={style.input}><input placeholder={'Search Anything'}/><img src={'https://cdn-icons-png.flaticon.com/128/8206/8206635.png'}/></div>
                 </div>
             </div>
             <div className={style.secondPage}>

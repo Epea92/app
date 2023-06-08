@@ -26,10 +26,10 @@ body{
     @apply ml-[20px] text-neutral-500;
 }
 .l1{
-    @apply bg-white w-[10px] h-[50px] rounded-t-[10px] rounded-b-[10px];
+    @apply bg-white w-[10px] h-[55px] rounded-t-[10px] rounded-b-[10px];
 }
 input{
-    @apply w-[1850px] ml-[10px] mt-[10px] bg-black text-white;
+    @apply w-[1850px] ml-[10px] mt-[3px] bg-black text-white;
 }
 .dk2{
     @apply flex flex-row;
@@ -60,6 +60,12 @@ input{
 }
 .second1{
     @apply rounded-[40px] ml-[30px] w-[1100px] h-[140px] bg-rose-950;
+}
+.input{
+    @apply flex flex-row;
+}
+.input img{
+    @apply cursor-pointer w-[35px] h-[35px];
 }
 @media screen and (max-width: 720px), (height: 1600px) {
     .TaskPro{
