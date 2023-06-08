@@ -1,0 +1,47 @@
+body{
+    @apply bg-black;
+}
+.header{
+    @apply flex flex-row;
+}
+.TaskPro{
+    @apply text-white text-5xl;
+}
+.elements{
+    @apply flex justify-center flex-row;
+}
+.inputMenu{
+    @apply flex flex-row mt-[25px] ml-[10px];
+}
+.yellow{
+    @apply w-[500px] h-[120px] bg-yellow-300 rounded-[25px];
+}
+.w1{
+    @apply ml-[15px] flex flex-col text-5xl;
+}
+.w2{
+    @apply ml-[15px] text-neutral-500;
+}
+.l1{
+    @apply bg-white w-[10px] h-[50px] rounded-t-[10px] rounded-b-[10px];
+}
+input{
+    @apply ml-[10px] mt-[10px] bg-black text-white;
+}
+@media screen and (max-width: 720px), (height: 1600px) {
+    .TaskPro{
+        @apply text-2xl;
+    }
+    .w1{
+        @apply text-2xl;
+    }
+    .yellow{
+        @apply w-[350px];
+    }
+    input{
+        @apply w-[350px];
+    }
+    .elements{
+        @apply flex flex-col;
+    }
+}
