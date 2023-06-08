@@ -65,14 +65,14 @@ input{
     @apply flex flex-row;
 }
 .input img{
-    @apply cursor-pointer w-[35px] h-[35px];
+    @apply cursor-pointer w-[35px] ml-[10px] mt-[10px] h-[35px];
 }
 @media screen and (max-width: 720px), (height: 1600px) {
     .TaskPro{
         @apply text-2xl;
     }
     .w1{
-        @apply text-2xl;
+        @apply mt-[10px] text-2xl;
     }
     .l1{
         @apply bg-white w-[10px] h-[50px] rounded-t-[10px] rounded-b-[10px];
