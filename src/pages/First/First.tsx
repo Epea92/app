@@ -27,12 +27,15 @@ function First(){
                         See All
                     </div>
                 </div>
-                <div className={style.twoElement}>
+                <div className={style.elements2}>
                     <div className={style.first}></div>
                     <div className={style.second}></div>
                 </div>
+                <div className={style.elements3}>
+                    <div className={style.first1}></div>
+                    <div className={style.second1}></div>
+                </div>
             </div>
-
         </div>
     )
 }

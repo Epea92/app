@@ -49,6 +49,12 @@ input{
 .second{
     @apply rounded-[40px] ml-[50px] w-[700px] h-[140px] bg-red-950;
 }
+.first1{
+    @apply rounded-[40px] w-[700px] h-[140px] bg-lime-950;
+}
+.second1{
+    @apply rounded-[40px] w-[1100px] h-[140px] bg-rose-950;
+}
 @media screen and (max-width: 720px), (height: 1600px) {
     .TaskPro{
         @apply text-2xl;
