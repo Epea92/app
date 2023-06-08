@@ -89,6 +89,9 @@ input{
     .pt{
         @apply text-[20px];
     }
+    .elements3{
+        @apply mt-[10px];
+    }
     .first1{
         @apply w-[230px] h-[150px] rounded-[40px];
     }
