@@ -59,7 +59,7 @@ input{
     @apply rounded-[40px] w-[700px] h-[140px] bg-lime-950;
 }
 .second1{
-    @apply rounded-[40px] ml-[50px] w-[1100px] h-[140px] bg-rose-950;
+    @apply rounded-[40px] ml-[30px] w-[1100px] h-[140px] bg-rose-950;
 }
 @media screen and (max-width: 720px), (height: 1600px) {
     .TaskPro{
