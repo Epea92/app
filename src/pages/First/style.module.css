@@ -75,6 +75,6 @@ input{
         @apply w-[200px] h-[100px] rounded-[40px] ml-[25px];
     }
     .pt{
-        @apply text-2xl;
+        @apply text-[20px];
     }
 }
