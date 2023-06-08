@@ -17,12 +17,15 @@ body{
     @apply flex flex-row mt-[25px] ml-[10px];
 }
 .yellow{
-    @apply w-full h-[120px] mt-[30px] bg-yellow-300 rounded-[40px];
+    @apply w-full h-[170px] mt-[30px] bg-yellow-300 rounded-[40px];
 }
 .w1{
-    @apply ml-[20px] flex flex-col text-5xl;
+    @apply ml-[20px] flex flex-col mt-2 text-5xl;
 }
 .w2{
+    @apply ml-[20px] flex flex-col text-5xl;
+}
+.w3{
     @apply ml-[20px] text-neutral-500;
 }
 .l1{
@@ -59,7 +62,7 @@ input{
     @apply rounded-[40px] w-[700px] h-[140px] bg-lime-950;
 }
 .second1{
-    @apply rounded-[40px] ml-[30px] w-[1100px] h-[140px] bg-rose-950;
+    @apply rounded-[40px] ml-[55px] w-[1100px] h-[140px] bg-rose-950;
 }
 .input{
     @apply flex flex-row;
