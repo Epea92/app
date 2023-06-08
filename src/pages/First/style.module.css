@@ -96,6 +96,6 @@ input{
         @apply w-[230px] h-[150px] rounded-[40px];
     }
     .second1{
-        @apply w-[350px] h-[150px] rounded-[40px];
+        @apply ml-[20px] w-[350px] h-[150px] rounded-[40px];
     }
 }
