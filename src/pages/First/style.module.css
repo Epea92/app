@@ -69,7 +69,7 @@ input{
         @apply flex flex-col;
     }
     .first{
-        @apply w-[400px] h-[100px] rounded-[40px];
+        @apply w-[300px] h-[150px] rounded-[40px];
     }
     .second{
         @apply w-[200px] h-[100px] rounded-[40px] ml-[25px];
