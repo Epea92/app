@@ -8,13 +8,13 @@ body{
     @apply text-white text-5xl;
 }
 .elements{
-    @apply flex justify-center flex-row;
+    @apply flex justify-center flex-col;
 }
 .inputMenu{
     @apply flex flex-row mt-[25px] ml-[10px];
 }
 .yellow{
-    @apply w-[500px] h-[120px] bg-yellow-300 rounded-[25px];
+    @apply w-full h-[120px] bg-yellow-300 rounded-[25px];
 }
 .w1{
     @apply ml-[15px] flex flex-col text-5xl;
