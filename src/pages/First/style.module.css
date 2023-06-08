@@ -47,7 +47,7 @@ input{
     @apply rounded-[40px] w-[1100px] h-[140px] bg-blue-600;
 }
 .second{
-    @apply rounded-[40px] ml-[50px] w-[700px] h-[140px] bg-red-950;
+    @apply rounded-[40px] ml-[50px] w-[700px] h-[140px] bg-red-900;
 }
 .first1{
     @apply rounded-[40px] w-[700px] h-[140px] bg-lime-950;
