@@ -18,6 +18,21 @@ function First(){
                     <div className={style.input}><input placeholder={'Search Anything'}/></div>
                 </div>
             </div>
+            <div className={style.secondPage}>
+                <div className={style.dk2}>
+                    <div className={style.pt}>
+                        Pending Task
+                    </div>
+                    <div className={style.sa}>
+                        See All
+                    </div>
+                </div>
+                <div className={style.twoElement}>
+                    <div className={style.first}></div>
+                    <div className={style.second}></div>
+                </div>
+            </div>
+
         </div>
     )
 }

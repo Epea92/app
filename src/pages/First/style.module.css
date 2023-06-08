@@ -17,19 +17,37 @@ body{
     @apply flex flex-row mt-[25px] ml-[10px];
 }
 .yellow{
-    @apply w-full h-[120px] mt-[30px] bg-yellow-300 rounded-[25px];
+    @apply w-full h-[120px] mt-[30px] bg-yellow-300 rounded-[40px];
 }
 .w1{
-    @apply ml-[15px] flex flex-col text-5xl;
+    @apply ml-[20px] flex flex-col text-5xl;
 }
 .w2{
-    @apply ml-[15px] text-neutral-500;
+    @apply ml-[20px] text-neutral-500;
 }
 .l1{
     @apply bg-white w-[10px] h-[50px] rounded-t-[10px] rounded-b-[10px];
 }
 input{
-    @apply w-full ml-[10px] mt-[10px] bg-black text-white;
+    @apply w-[1850px] ml-[10px] mt-[10px] bg-black text-white;
+}
+.dk2{
+    @apply flex flex-row;
+}
+.pt{
+    @apply mt-[30px] text-white text-5xl;
+}
+.sa{
+    @apply ml-[80%] text-green-600 mt-[47px] cursor-pointer;
+}
+.twoElement{
+    @apply mt-[20px] flex flex-row;
+}
+.first{
+    @apply rounded-[40px] w-[1100px] h-[140px] bg-blue-600;
+}
+.second{
+    @apply rounded-[40px] ml-[50px] w-[700px] h-[140px] bg-red-950;
 }
 @media screen and (max-width: 720px), (height: 1600px) {
     .TaskPro{
