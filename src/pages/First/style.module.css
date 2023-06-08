@@ -43,11 +43,17 @@ input{
 .twoElement{
     @apply mt-[20px] flex flex-row;
 }
+.elements2{
+    @apply flex flex-row;
+}
 .first{
     @apply rounded-[40px] w-[1100px] h-[140px] bg-blue-600;
 }
 .second{
     @apply rounded-[40px] ml-[50px] w-[700px] h-[140px] bg-red-900;
+}
+.elements3{
+    @apply flex flex-row;
 }
 .first1{
     @apply rounded-[40px] w-[700px] h-[140px] bg-lime-950;
