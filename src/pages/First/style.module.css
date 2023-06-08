@@ -44,7 +44,7 @@ input{
     @apply mt-[20px] flex flex-row;
 }
 .elements2{
-    @apply flex flex-row;
+    @apply mt-[20px] flex flex-row;
 }
 .first{
     @apply rounded-[40px] w-[1100px] h-[140px] bg-blue-600;
