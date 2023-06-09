@@ -57,7 +57,7 @@
         @apply flex flex-col w-[370px] h-[170px] rounded-[40px];
     }
     .p1 a{
-        @apply text-2x;
+        @apply text-2xl;
     }
     .first img{
         @apply mt-[35px] w-[50px] h-[50px];
