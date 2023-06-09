@@ -83,4 +83,7 @@
     .first1 img{
         @apply w-[80px] h-[80px];
     }
+    .second1 img{
+        @apply w-[80px] h-[80px];
+    }
 }
