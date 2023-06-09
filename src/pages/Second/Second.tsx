@@ -19,8 +19,7 @@ function Second(){
                 <div className={style.first}><img src={phone}/>
                     <div className={style.info}>
                         <div className={style.p1}>
-                            <a>APP</a>
-                            <a>DESIGN</a>
+                            <a>APP DESIGN</a>
                         </div>
                         <a className={style.w1}>App Design Task</a>
                     </div>
