@@ -20,7 +20,7 @@
     @apply mt-[10px] ml-[20px];
 }
 .p1 a{
-    @apply text-white ml-[10px] text-5xl;
+    @apply text-white text-5xl;
 }
 .w1{
     @apply text-gray-600 ml-[10px] text-2xl;
@@ -57,7 +57,7 @@
         @apply flex flex-col w-[370px] h-[170px] rounded-[40px];
     }
     .p1 a{
-        @apply ml-[-20px] text-2xl;
+        @apply text-2xl;
     }
     .first img{
         @apply mt-[35px] w-[50px] h-[50px];
