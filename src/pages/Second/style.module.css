@@ -41,6 +41,9 @@
     .first{
         @apply w-[350px] h-[170px] rounded-[40px];
     }
+    .whiteElement{
+        @apply ml-[100px]
+    }
     .second{
         @apply w-[250px] h-[170px] rounded-[40px] ml-[25px];
     }
