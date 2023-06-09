@@ -39,7 +39,7 @@
 }
 @media screen and (max-width: 720px), (height: 1600px) {
     .first{
-        @apply w-[350px] h-[170px] rounded-[40px];
+        @apply w-[370px] h-[170px] rounded-[40px];
     }
     .first img{
         @apply mt-[35px] w-[50px] h-[50px]
