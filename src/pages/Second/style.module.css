@@ -42,7 +42,7 @@
         @apply w-[350px] h-[170px] rounded-[40px];
     }
     .first img{
-        @apply w-[50px] h-[50px]
+        @apply mt-[20px] w-[50px] h-[50px]
     }
     .whiteElement{
         @apply ml-[20px]
