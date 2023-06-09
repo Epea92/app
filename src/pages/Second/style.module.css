@@ -17,7 +17,7 @@
     @apply rounded-[40px] w-[1100px] h-[140px] bg-blue-600;
 }
 .first img{
-    @apply
+    @apply mt-[20px] ml-[20px]
 }
 .second{
     @apply rounded-[40px] ml-[50px] w-[700px] h-[140px] bg-red-900;
