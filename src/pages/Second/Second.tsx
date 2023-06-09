@@ -15,7 +15,10 @@ function Second(){
                 </div>
             </div>
             <div className={style.elements2}>
-                <div className={style.first}><img src={phone}/><div className={style.whiteElement}><a>47% Complete</a></div></div>
+                <div className={style.first}><img src={phone}/>
+                    <a className={style.info}></a>
+                    <div className={style.whiteElement}><a>47% Complete</a></div>
+                </div>
                 <div className={style.second}></div>
             </div>
             <div className={style.elements3}>

@@ -17,10 +17,13 @@
     @apply flex flex-row rounded-[40px] w-[1100px] h-[140px] bg-blue-600;
 }
 .first img{
-    @apply mt-[20px] ml-[20px];
+    @apply mt-[10px] ml-[20px];
 }
 .whiteElement{
-    @apply flex flex-row bg-white w-[10px] h-[40px] ml-[800px];
+    @apply flex flex-row rounded-l-full bg-white w-[140px] h-[35px] ml-[860px] mt-[45px];
+}
+.whiteElement a{
+    @apply ml-[20px] mt-[5px]
 }
 .second{
     @apply rounded-[40px] ml-[50px] w-[700px] h-[140px] bg-red-900;
