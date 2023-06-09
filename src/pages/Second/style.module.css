@@ -56,6 +56,15 @@
     .first{
         @apply flex flex-col w-[370px] h-[170px] rounded-[40px];
     }
+    .second{
+        @apply flex flex-col;
+    }
+    .first1{
+        @apply flex flex-col;
+    }
+    .second1{
+        @apply flex flex-col;
+    }
     .p1 a{
         @apply text-2xl;
     }
