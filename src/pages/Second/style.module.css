@@ -19,11 +19,11 @@
 .first img{
     @apply mt-[10px] ml-[20px];
 }
-.whiteElement{
-    @apply flex flex-row rounded-l-full bg-white w-[140px] h-[35px] ml-[860px] mt-[45px];
+.p1 a{
+    @apply text-white ml-[10px];
 }
-.whiteElement a{
-    @apply ml-[20px] mt-[5px]
+.w1{
+    @apply text-gray-600 ml-[10px];
 }
 .second{
     @apply rounded-[40px] ml-[50px] w-[700px] h-[140px] bg-red-900;

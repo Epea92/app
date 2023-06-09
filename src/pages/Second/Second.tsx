@@ -16,8 +16,14 @@ function Second(){
             </div>
             <div className={style.elements2}>
                 <div className={style.first}><img src={phone}/>
-                    <a className={style.info}></a>
-                    <div className={style.whiteElement}><a>47% Complete</a></div>
+                    <div className={style.info}>
+                        <div className={style.p1}>
+                            <a>APP</a>
+                            <a>DESIGN</a>
+                        </div>
+                        <a className={style.w1}>App Design Task</a>
+                    </div>
+
                 </div>
                 <div className={style.second}></div>
             </div>
