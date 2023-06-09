@@ -62,11 +62,8 @@
     .first img{
         @apply mt-[35px] w-[50px] h-[50px];
     }
-    .second img{
+    .second img {
         @apply w-[80px] h-[80px];
-    }
-    .whiteElement{
-        @apply ml-[15px];
     }
     .second{
         @apply w-[250px] h-[170px] rounded-[40px] ml-[25px];
@@ -82,5 +79,8 @@
     }
     .second1{
         @apply ml-[20px] w-[350px] h-[170px] rounded-[40px];
+    }
+    .first1 img{
+        @apply w-[80px] h-[80px];
     }
 }
