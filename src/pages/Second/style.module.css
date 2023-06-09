@@ -14,7 +14,7 @@
     @apply mt-[20px] flex flex-row;
 }
 .first{
-    @apply flex flex-row rounded-[40px] w-[1100px] h-[140px] bg-blue-600;
+    @apply flex flex-row rounded-[40px] w-[1100px] h-[140px] bg-indigo-600;
 }
 .first img{
     @apply mt-[10px] ml-[20px];
@@ -35,13 +35,13 @@
     @apply mt-[20px] flex flex-row;
 }
 .first1{
-    @apply flex flex-row rounded-[40px] w-[700px] h-[140px] bg-lime-950;
+    @apply flex flex-row rounded-[40px] w-[700px] h-[140px] bg-teal-700;
 }
 .first1 img{
     @apply ml-[20px] mt-[20px] w-[100px] h-[100px];
 }
 .second1{
-    @apply flex flex-row rounded-[40px] ml-[55px] w-[1100px] h-[140px] bg-rose-950;
+    @apply flex flex-row rounded-[40px] ml-[55px] w-[1100px] h-[140px] bg-rose-900;
 }
 .second1 img{
     @apply w-[80px] h-[80px] ml-[20px] mt-[30px];
