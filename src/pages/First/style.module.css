@@ -1,5 +1,5 @@
 body{
-    @apply bg-black;
+    @apply bg-gray-800;
 }
 .container{
     @apply m-[20px]
