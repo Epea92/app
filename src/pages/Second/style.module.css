@@ -41,6 +41,9 @@
     .first{
         @apply w-[350px] h-[170px] rounded-[40px];
     }
+    .first img{
+        @apply w-[20px] h-[20px]
+    }
     .whiteElement{
         @apply ml-[20px]
     }
