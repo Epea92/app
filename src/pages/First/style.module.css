@@ -54,6 +54,9 @@ input{
     .w1{
         @apply mt-[10px] text-2xl;
     }
+    .w2{
+        @apply text-2xl;
+    }
     .l1{
         @apply bg-white w-[10px] h-[50px] rounded-t-[10px] rounded-b-[10px];
     }
