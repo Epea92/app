@@ -90,7 +90,9 @@
         @apply w-[80px] h-[80px];
     }
     .info a{
-        /*@apply mr-[30px];*/
+        @apply mr-[30px];
     }
-
+    .w1{
+        @apply text-[10px];
+    }
 }
