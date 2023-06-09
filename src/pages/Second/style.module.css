@@ -14,7 +14,7 @@
     @apply mt-[20px] flex flex-row;
 }
 .first{
-    @apply flex flex-row rounded-[40px] w-[1100px] h-[140px] bg-[#464D89] cursor-pointer;
+    @apply flex flex-row rounded-[40px] w-[1100px] h-[140px] bg-[#505793] cursor-pointer;
 }
 .first img{
     @apply mt-[10px] ml-[20px];
@@ -35,7 +35,7 @@
     @apply mt-[20px] flex flex-row;
 }
 .first1{
-    @apply flex flex-row rounded-[40px] w-[700px] h-[140px] bg-teal-700 cursor-pointer;
+    @apply flex flex-row rounded-[40px] w-[700px] h-[140px] bg-[#50948D] cursor-pointer;
 }
 .first1 img{
     @apply ml-[20px] mt-[20px] w-[100px] h-[100px];
