@@ -1,7 +1,7 @@
 import React from "react";
 import style from './style.module.css';
 import phone from '../../resources/phone.png'
-
+import hands from '../../resources/hands.png';
 
 function Second(){
     return(
@@ -27,8 +27,17 @@ function Second(){
                 </div>
                 <div className={style.second}></div>
             </div>
+
             <div className={style.elements3}>
-                <div className={style.first1}></div>
+                <div className={style.first1}>
+                    <img src={hands}/>
+                    <div className={style.info1}>
+                        <div className={style.p1}>
+                            <a>CLIENT</a>
+                        </div>
+                        <a className={style.w1}>Awe studio des...</a>
+                    </div>
+                </div>
                 <div className={style.second1}></div>
             </div>
         </div>

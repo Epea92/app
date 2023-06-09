@@ -25,6 +25,12 @@
 .w1{
     @apply text-gray-600 ml-[10px] text-2xl;
 }
+.info{
+    @apply mt-[30px] ml-[170px];
+}
+.info1{
+    @apply ml-[270px];
+}
 .second{
     @apply rounded-[40px] ml-[50px] w-[700px] h-[140px] bg-red-900;
 }
@@ -32,7 +38,10 @@
     @apply mt-[20px] flex flex-row;
 }
 .first1{
-    @apply rounded-[40px] w-[700px] h-[140px] bg-lime-950;
+    @apply flex flex-row rounded-[40px] w-[700px] h-[140px] bg-lime-950;
+}
+.first1 img{
+    @apply ml-[20px] mt-[20px] w-[100px] h-[100px];
 }
 .second1{
     @apply rounded-[40px] ml-[55px] w-[1100px] h-[140px] bg-rose-950;
