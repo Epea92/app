@@ -42,10 +42,10 @@
         @apply w-[370px] h-[170px] rounded-[40px];
     }
     .first img{
-        @apply mt-[35px] w-[50px] h-[50px]
+        @apply mt-[35px] w-[50px] h-[50px];
     }
     .whiteElement{
-        @apply ml-[20px]
+        @apply ml-[15px];
     }
     .second{
         @apply w-[250px] h-[170px] rounded-[40px] ml-[25px];
