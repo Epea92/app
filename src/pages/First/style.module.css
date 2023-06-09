@@ -34,36 +34,10 @@ body{
 input{
     @apply w-[1850px] ml-[10px] mt-[3px] bg-black text-white;
 }
-.dk2{
-    @apply flex flex-row;
-}
-.pt{
-    @apply mt-[30px] text-white text-5xl;
-}
-.sa{
-    @apply flex flex-row ml-[80%] text-green-600 mt-[47px] cursor-pointer;
-}
 .twoElement{
     @apply mt-[20px] flex flex-row;
 }
-.elements2{
-    @apply mt-[20px] flex flex-row;
-}
-.first{
-    @apply rounded-[40px] w-[1100px] h-[140px] bg-blue-600;
-}
-.second{
-    @apply rounded-[40px] ml-[50px] w-[700px] h-[140px] bg-red-900;
-}
-.elements3{
-    @apply mt-[20px] flex flex-row;
-}
-.first1{
-    @apply rounded-[40px] w-[700px] h-[140px] bg-lime-950;
-}
-.second1{
-    @apply rounded-[40px] ml-[55px] w-[1100px] h-[140px] bg-rose-950;
-}
+
 .input{
     @apply flex flex-row;
 }

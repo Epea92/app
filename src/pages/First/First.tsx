@@ -19,24 +19,6 @@ function First(){
                     <div className={style.input}><input placeholder={'Search Anything'}/><img src={io}/></div>
                 </div>
             </div>
-            <div className={style.secondPage}>
-                <div className={style.dk2}>
-                    <div className={style.pt}>
-                        Pending Task
-                    </div>
-                    <div className={style.sa}>
-                        See All
-                    </div>
-                </div>
-                <div className={style.elements2}>
-                    <div className={style.first}></div>
-                    <div className={style.second}></div>
-                </div>
-                <div className={style.elements3}>
-                    <div className={style.first1}></div>
-                    <div className={style.second1}></div>
-                </div>
-            </div>
         </div>
     )
 }

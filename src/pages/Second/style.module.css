@@ -1,0 +1,33 @@
+.secondPage{
+    @apply m-[20px]
+}
+.dk2{
+    @apply flex flex-row;
+}
+.pt{
+    @apply mt-[30px] text-white text-5xl;
+}
+.sa{
+    @apply flex flex-row ml-[80%] text-green-600 mt-[47px] cursor-pointer;
+}
+.elements2{
+    @apply mt-[20px] flex flex-row;
+}
+.first{
+    @apply rounded-[40px] w-[1100px] h-[140px] bg-blue-600;
+}
+.first img{
+    @apply
+}
+.second{
+    @apply rounded-[40px] ml-[50px] w-[700px] h-[140px] bg-red-900;
+}
+.elements3{
+    @apply mt-[20px] flex flex-row;
+}
+.first1{
+    @apply rounded-[40px] w-[700px] h-[140px] bg-lime-950;
+}
+.second1{
+    @apply rounded-[40px] ml-[55px] w-[1100px] h-[140px] bg-rose-950;
+}
