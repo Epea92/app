@@ -17,41 +17,20 @@ function Second(){
             </div>
             <div className={style.elements2}>
                 <div className={style.first}><img src={phone}/>
-                    <div className={style.info}>
-                        <div className={style.p1}>
-                            <a>APP DESIGN</a>
-                        </div>
-                        <a className={style.w1}>App Design Task</a>
-                    </div>
+
                 </div>
                 <div className={style.second}>
                     <img src={laptop}/>
-                    <div className={style.info1}>
-                        <div className={style.p1}>
-                            <a>WEB</a>
-                        </div>
-                        <a className={style.w1}>Web Design</a>
-                    </div>
+
                 </div>
             </div>
 
             <div className={style.elements3}>
                 <div className={style.first1}>
                     <img src={hands}/>
-                    <div className={style.info1}>
-                        <div className={style.p1}>
-                            <a>CLIENT</a>
-                        </div>
-                        <a className={style.w1}>Awe studio des...</a>
-                    </div>
+
                 </div>
                 <div className={style.second1}><img src={dribble}/>
-                    <div className={style.info}>
-                        <div className={style.p1}>
-                            <a>DRIBBLE</a>
-                        </div>
-                        <a className={style.w1}>Create dribble shot</a>
-                    </div>
                 </div>
             </div>
         </div>
