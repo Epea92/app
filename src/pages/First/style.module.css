@@ -58,7 +58,7 @@ input{
         @apply bg-white w-[10px] h-[50px] rounded-t-[10px] rounded-b-[10px];
     }
     .yellow{
-        @apply w-full;
+        @apply w-[400px];
     }
     input{
         @apply w-[350px];
