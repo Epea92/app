@@ -59,6 +59,9 @@
     .first img{
         @apply mt-[35px] w-[50px] h-[50px];
     }
+    .second img{
+        @apply w-[80px] h-[80px];
+    }
     .whiteElement{
         @apply ml-[15px];
     }
