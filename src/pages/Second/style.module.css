@@ -25,12 +25,6 @@
 .w1{
     @apply text-gray-600 ml-[10px] text-2xl;
 }
-.info{
-    @apply mt-[30px] ml-[170px];
-}
-.info1{
-    @apply ml-[155px] mt-[30px];
-}
 .second{
     @apply flex flex-row rounded-[40px] ml-[50px] w-[700px] h-[140px] bg-red-900;
 }
@@ -56,9 +50,6 @@
     .first{
         @apply flex flex-col w-[370px] h-[170px] rounded-[40px];
     }
-    .second1{
-        @apply flex flex-col;
-    }
     .p1 a{
         @apply text-2xl;
     }
@@ -69,7 +60,7 @@
         @apply w-[80px] h-[80px];
     }
     .second{
-        @apply flex flex-col w-[250px] h-[170px] rounded-[40px] ml-[25px];
+        @apply flex flex-col w-[280px] h-[170px] rounded-[40px] ml-[25px];
     }
     .pt{
         @apply text-[20px];
@@ -89,10 +80,5 @@
     .second1 img{
         @apply w-[80px] h-[80px];
     }
-    .info a{
-        @apply mr-[30px];
-    }
-    .w1{
-        @apply text-[15px];
-    }
+
 }
