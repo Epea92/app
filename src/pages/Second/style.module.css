@@ -93,6 +93,6 @@
         @apply mr-[30px];
     }
     .w1{
-        @apply text-[10px];
+        @apply text-[20px];
     }
 }
