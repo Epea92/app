@@ -83,6 +83,6 @@ input{
         @apply mt-[27px] ml-[-450px];
     }
     .menu{
-        @apply ml-[75%];
+        @apply ml-[72%];
     }
 }
