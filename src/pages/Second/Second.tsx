@@ -21,10 +21,6 @@ function Second(){
             <div className={style.elements2}>
                 <div className={style.first}>
                     <img src={phone}/>
-                    <div className={style.info}>
-                        <a className={style.AppDesign}>APP DESIGN</a>
-                        <a className={style.bottom}>App Design Task</a>
-                    </div>
                 </div>
 
 
@@ -32,7 +28,6 @@ function Second(){
                 <div className={style.second}>
                     <img src={laptop}/>
                 </div>
-
 
 
             </div>
