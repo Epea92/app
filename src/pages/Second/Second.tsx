@@ -15,6 +15,9 @@ function Second(){
                     See All
                 </div>
             </div>
+
+
+
             <div className={style.elements2}>
                 <div className={style.first}>
                     <img src={phone}/>
@@ -24,16 +27,26 @@ function Second(){
                     </div>
                     <div className={style.white}><a>47% Complete</a></div>
                 </div>
+
+
+
                 <div className={style.second}>
                     <img src={laptop}/>
                 </div>
+
+
+
             </div>
             <div className={style.elements3}>
                 <div className={style.first1}>
                     <img src={hands}/>
                 </div>
-                <div className={style.second1}><img src={dribble}/>
+
+
+                <div className={style.second1}>
+                    <img src={dribble}/>
                 </div>
+
             </div>
         </div>
     )
