@@ -19,10 +19,10 @@ body{
     @apply flex flex-row mt-[25px] ml-[10px];
 }
 .yellow{
-    @apply w-full h-[170px] mt-[30px] bg-yellow-300 rounded-[40px];
+    @apply w-full h-[170px] mt-[30px] bg-yellow-200 rounded-[40px];
 }
 .crown img{
-    @apply bg-white w-[100px] h-[100px] mt-[-110px] ml-[87%]
+    @apply bg-yellow-100 w-[100px] h-[100px] mt-[-110px] ml-[87%] rounded-full
 }
 .w2{
     @apply ml-[20px] mt-[20px] font-[Poppins] font-medium flex flex-col text-5xl;
@@ -56,10 +56,10 @@ input{
         @apply text-2xl;
     }
     .w2{
-        @apply font-[fantazy] mt-[20px] text-2xl;
+        @apply font-[Poppins] mt-[20px] text-2xl;
     }
     .w3{
-        @apply font-[fantazy]
+        @apply font-[Poppins];
     }
     .l1{
         @apply bg-white w-[10px] h-[50px] rounded-t-[10px] rounded-b-[10px];
@@ -72,5 +72,8 @@ input{
     }
     .elements{
         @apply flex flex-col;
+    }
+    .crown{
+        @apply ml-[-70px];
     }
 }
