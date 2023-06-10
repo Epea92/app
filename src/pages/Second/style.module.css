@@ -26,13 +26,13 @@
     @apply mt-[10px] ml-[20px];
 }
 .info{
-    @apply flex flex-col justify-center ml-[25%] ;
+    @apply flex flex-col justify-center ml-[25%];
 }
 .AppDesign{
     @apply text-white text-5xl font-[Poppins];
 }
 .bottom{
-    @apply text-[20px] text-gray-700
+    @apply text-[20px] text-gray-700;
 }
 .p1 a{
     @apply text-white text-5xl;
@@ -64,6 +64,9 @@
 @media screen and (max-width: 720px), (height: 1600px) {
     .first{
         @apply flex flex-col w-[370px] h-[170px] rounded-[40px];
+    }
+    .white{
+        @apply ml-[50px];
     }
     .p1 a{
         @apply text-2xl;
@@ -101,5 +104,4 @@
     .second1 img{
         @apply w-[80px] h-[80px];
     }
-
 }
