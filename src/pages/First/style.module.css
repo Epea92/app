@@ -65,7 +65,7 @@ input{
         @apply font-[Poppins] mt-[20px] text-2xl;
     }
     .w3{
-        @apply font-[Poppins];
+        @apply mr-[10px] font-[Poppins];
     }
     .l1{
         @apply bg-white w-[10px] h-[50px] rounded-t-[10px] rounded-b-[10px];
