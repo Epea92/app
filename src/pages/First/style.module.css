@@ -52,7 +52,7 @@ input{
         @apply text-2xl;
     }
     .w1{
-        @apply w-[100px] h-[100px] mt-[10px] text-2xl;
+        @apply w-[200px] h-[100px] mt-[10px] text-2xl;
     }
     .w2{
         @apply text-2xl;
