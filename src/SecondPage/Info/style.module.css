@@ -1,3 +1,6 @@
+.container{
+    @apply m-[20px]
+}
 .j1{
     @apply flex flex-col;
 }

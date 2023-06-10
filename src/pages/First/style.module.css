@@ -7,10 +7,13 @@ body{
     @apply m-[20px]
 }
 .header{
-    @apply flex flex-row;
+    @apply flex flex-row justify-between;
 }
 .TaskPro{
-    @apply text-white text-5xl;
+    @apply text-white text-5xl font-mono;
+}
+.menu{
+    @apply bg-gray-700 rounded-full w-[50px] h-[50px] cursor-pointer;
 }
 .elements{
     @apply flex justify-center flex-col;
@@ -35,6 +38,9 @@ body{
 }
 input{
     @apply w-[1850px] ml-[10px] mt-[3px] bg-gray-800 text-white;
+}
+input{
+    @apply font-[Poppins];
 }
 .twoElement{
     @apply mt-[20px] flex flex-row;

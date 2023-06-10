@@ -4,6 +4,7 @@ import style from './style.module.css';
 // @ts-ignore
 import william from '../../resources/william.png';
 import calendar from '../../resources/calendar.png';
+
 function William(){
     return(
         <div className={style.container}>
@@ -26,6 +27,10 @@ function William(){
                 </div>
             </div>
 
+            <div className={style.description}>
+                <a className={style.main}>Description</a>
+                <a className={style.inf}></a>
+            </div>
         </div>
     )
 }
