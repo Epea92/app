@@ -22,3 +22,8 @@
 .date{
     @apply ml-[10px] flex flex-row;
 }
+@media screen and (min-width: 480px) {
+    .william{
+        @apply w-[30px] h-[30px];
+    }
+}
