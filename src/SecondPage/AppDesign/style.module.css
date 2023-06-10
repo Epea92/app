@@ -1,13 +1,11 @@
 .menu{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+    @apply flex flex-row justify-between
 }
 .back{
     @apply w-[40px] h-[40px] cursor-pointer;
 }
 .details{
-    @apply text-white font-[Poppins]
+    @apply text-white font-[Poppins] cursor-pointer;
 }
 .round{
     @apply bg-gray-700 rounded-full w-[50px] h-[50px] cursor-pointer;

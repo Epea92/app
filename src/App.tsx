@@ -1,7 +1,7 @@
 import React from 'react';
-import SecondScreen from "./screens/SecondScreen/SecondScreen";
 import First from "./pages/First/First";
 import Second from "./pages/Second/Second";
+import AppDesignHeader from "./SecondPage/AppDesign/AppDesignHeader";
 
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <First/>
       <Second/>
-      <SecondScreen/>
+        <AppDesignHeader/>
     </div>
   );
 }
