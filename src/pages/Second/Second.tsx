@@ -16,19 +16,21 @@ function Second(){
                 </div>
             </div>
             <div className={style.elements2}>
-                <div className={style.first}><img src={phone}/>
-
+                <div className={style.first}>
+                    <img src={phone}/>
+                    <div className={style.info}>
+                        <a className={style.AppDesign}>APP DESIGN</a>
+                        <a className={style.bottom}>App Design Task</a>
+                    </div>
+                    <div className={style.white}><a>47% Complete</a></div>
                 </div>
                 <div className={style.second}>
                     <img src={laptop}/>
-
                 </div>
             </div>
-
             <div className={style.elements3}>
                 <div className={style.first1}>
                     <img src={hands}/>
-
                 </div>
                 <div className={style.second1}><img src={dribble}/>
                 </div>

@@ -22,7 +22,7 @@ body{
     @apply w-full h-[170px] mt-[30px] bg-yellow-300 rounded-[40px];
 }
 .crown img{
-    @apply bg-white rounded-full w-[100px] h-[100px] mt-[-110px] ml-[87%]
+    @apply bg-white w-[100px] h-[100px] mt-[-110px] ml-[87%]
 }
 .w2{
     @apply ml-[20px] mt-[20px] font-[Poppins] font-medium flex flex-col text-5xl;

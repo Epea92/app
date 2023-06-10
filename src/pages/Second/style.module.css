@@ -16,8 +16,23 @@
 .first{
     @apply flex flex-row rounded-[40px] w-[1100px] h-[140px] bg-[#505793] cursor-pointer;
 }
+.white{
+    @apply bg-white w-[150px] h-[25px] mt-[50px] ml-[297px] rounded-l-full;
+}
+.white a{
+    @apply ml-[20px] font-[Poppins];
+}
 .first img{
     @apply mt-[10px] ml-[20px];
+}
+.info{
+    @apply flex flex-col justify-center ml-[25%] ;
+}
+.AppDesign{
+    @apply text-white text-5xl font-[Poppins];
+}
+.bottom{
+    @apply text-[20px] text-gray-700
 }
 .p1 a{
     @apply text-white text-5xl;
