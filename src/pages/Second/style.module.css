@@ -16,12 +16,6 @@
 .first{
     @apply flex flex-row rounded-[40px] w-[1100px] h-[140px] bg-[#505793] cursor-pointer;
 }
-.white{
-    @apply bg-white w-[150px] h-[25px] mt-[50px] ml-[297px] rounded-l-full;
-}
-.white a{
-    @apply ml-[20px] font-[Poppins];
-}
 .first img{
     @apply mt-[10px] ml-[20px];
 }
@@ -64,9 +58,6 @@
 @media screen and (max-width: 720px), (height: 1600px) {
     .first{
         @apply flex flex-col w-[370px] h-[170px] rounded-[40px];
-    }
-    .white{
-        @apply ml-[50px];
     }
     .p1 a{
         @apply text-2xl;

@@ -25,7 +25,6 @@ function Second(){
                         <a className={style.AppDesign}>APP DESIGN</a>
                         <a className={style.bottom}>App Design Task</a>
                     </div>
-                    <div className={style.white}><a>47% Complete</a></div>
                 </div>
 
 
