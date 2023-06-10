@@ -32,7 +32,7 @@ body{
     @apply bg-white w-[10px] h-[55px] rounded-t-[10px] rounded-b-[10px];
 }
 input{
-    @apply w-[1850px] ml-[10px] mt-[3px] bg-black text-white;
+    @apply w-[1850px] ml-[10px] mt-[3px] bg-gray-800 text-white;
 }
 .twoElement{
     @apply mt-[20px] flex flex-row;
@@ -52,7 +52,7 @@ input{
         @apply text-2xl;
     }
     .w1{
-        @apply mt-[10px] text-2xl;
+        @apply w-[100px] h-[100px] mt-[10px] text-2xl;
     }
     .w2{
         @apply text-2xl;
