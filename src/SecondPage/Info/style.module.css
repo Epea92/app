@@ -1,0 +1,12 @@
+.container{
+    @apply flex justify-center;
+}
+.j1{
+    @apply flex flex-col;
+}
+.info{
+    @apply text-5xl text-white font-[Poppins];
+}
+.sInfo{
+    @apply text-2xl text-gray-500;
+}
