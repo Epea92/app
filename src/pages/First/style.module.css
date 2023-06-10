@@ -7,13 +7,13 @@ body{
     @apply m-[20px]
 }
 .header{
-    @apply flex flex-row justify-between;
+    @apply flex flex-row;
 }
 .TaskPro{
     @apply text-white text-5xl font-mono;
 }
 .menu{
-    @apply bg-gray-700 rounded-full w-[50px] h-[50px] cursor-pointer;
+    @apply ml-[88%] bg-gray-700 rounded-full w-[50px] h-[50px] cursor-pointer;
 }
 .elements{
     @apply flex justify-center flex-col;
