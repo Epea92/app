@@ -22,11 +22,11 @@
 .date{
     @apply ml-[10px] flex flex-row;
 }
-@media screen and (min-width: 480px) {
+@media screen and (max-height: 1600px), (max-width: 720px) {
     .william{
         @apply w-[30px] h-[30px];
     }
     .t2{
-        @apply text-[20px];
+        @apply text-[10px];
     }
 }
