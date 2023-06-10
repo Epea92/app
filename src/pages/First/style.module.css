@@ -82,4 +82,7 @@ input{
     .crown{
         @apply mt-[27px] ml-[-450px];
     }
+    .menu{
+        @apply ml-[85%];
+    }
 }
