@@ -69,7 +69,7 @@
         @apply text-2xl;
     }
     .AppDesign{
-        @apply ml-[10px] text-white text-2xl font-[Poppins];
+        @apply ml-[-30px] text-white text-2xl font-[Poppins];
     }
     .first img{
         @apply mt-[35px] w-[50px] h-[50px];
