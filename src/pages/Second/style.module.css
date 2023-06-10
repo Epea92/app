@@ -60,7 +60,7 @@
         @apply w-[80px] h-[80px];
     }
     .second{
-        @apply flex flex-col w-[380px] h-[190px] rounded-[40px] ml-[25px];
+        @apply flex flex-col w-[350px] h-[190px] rounded-[40px] ml-[25px];
     }
     .pt{
         @apply text-[20px];
@@ -69,10 +69,10 @@
         @apply mt-[10px];
     }
     .first1{
-        @apply flex flex-col w-[230px] h-[170px] rounded-[40px];
+        @apply flex flex-col w-[230px] h-[190px] rounded-[40px];
     }
     .second1{
-        @apply ml-[20px] w-[350px] h-[170px] rounded-[40px];
+        @apply ml-[20px] w-[350px] h-[190px] rounded-[40px];
     }
     .first1 img{
         @apply w-[80px] h-[80px];
