@@ -74,6 +74,6 @@ input{
         @apply flex flex-col;
     }
     .crown{
-        @apply mt-[23px] ml-[-400px];
+        @apply mt-[27px] ml-[-450px];
     }
 }
