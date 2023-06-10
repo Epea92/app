@@ -19,6 +19,9 @@ body{
 .yellow{
     @apply w-full h-[170px] mt-[30px] bg-yellow-300 rounded-[40px];
 }
+.w2{
+    @apply ml-[20px] flex flex-col text-5xl;
+}
 .w3{
     @apply ml-[20px] text-neutral-500;
 }
@@ -43,6 +46,9 @@ input{
         @apply m-[10px]
     }
     .TaskPro{
+        @apply text-2xl;
+    }
+    .w2{
         @apply text-2xl;
     }
     .l1{
