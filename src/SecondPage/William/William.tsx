@@ -28,8 +28,6 @@ function William(){
             </div>
 
             <div className={style.description}>
-                <a className={style.main}>Description</a>
-                <a className={style.inf}></a>
             </div>
         </div>
     )

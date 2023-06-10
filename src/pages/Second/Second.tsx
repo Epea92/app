@@ -8,12 +8,11 @@ function Second(){
     return(
         <div className={style.secondPage}>
             <div className={style.dk2}>
-                <div className={style.pt}>
+                <a className={style.pt}>
                     Pending Task
-                </div>
-                <div className={style.sa}>
-                    See All
-                </div>
+                </a>
+
+                <a className={style.sa}> See All</a>
             </div>
 
 
