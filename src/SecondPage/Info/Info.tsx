@@ -6,7 +6,6 @@ function Info(){
         <div className={style.container}>
             <div className={style.j1}>
                 <a className={style.info}>App Design</a>
-
                 <a className={style.sInfo}>Task manger ui kit</a>
             </div>
 
