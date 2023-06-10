@@ -26,4 +26,7 @@
     .william{
         @apply w-[30px] h-[30px];
     }
+    .t2{
+        @apply text-[20px];
+    }
 }

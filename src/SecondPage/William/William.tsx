@@ -11,8 +11,10 @@ function William(){
                 <img src={william}/>
                 <div className={style.info}>
                     <a className={style.t1}>Assigned to</a>
-                    <div className={style.name}><a className={style.t2}>William</a>
-                    <a className={style.t2}>Smith</a></div>
+                    <div className={style.name}>
+                        <a className={style.t2}>William</a>
+                        <a className={style.t2}>Smith</a>
+                    </div>
                 </div>
             </div>
 
