@@ -10,8 +10,9 @@ function First(){
             </div>
             <div className={style.elements}>
                 <div className={style.yellow}>
-                    <a className={style.w1}>Subscribe</a>
-                    <a className={style.w2}>To premium</a>
+                    <div className={style.w2}>
+                        <a>Subscribe</a>
+                        <a>To premium</a></div>
                     <a className={style.w3}>Buy premium membership</a>
                 </div>
                 <div className={style.inputMenu}>
