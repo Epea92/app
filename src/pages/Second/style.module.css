@@ -72,7 +72,7 @@
         @apply text-white text-2xl font-[Poppins];
     }
     .info{
-        @apply ml-[-6%]
+        @apply ml-[-1%]
     }
     .first img{
         @apply mt-[35px] w-[50px] h-[50px];
