@@ -60,7 +60,7 @@
         @apply w-[80px] h-[80px];
     }
     .second{
-        @apply flex flex-col w-[80vh] h-[190px] rounded-[40px] ml-[25px];
+        @apply flex flex-col w-[100vh] h-[190px] rounded-[40px] ml-[25px];
     }
     .pt{
         @apply text-[20px];
