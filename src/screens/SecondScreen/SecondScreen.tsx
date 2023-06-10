@@ -13,3 +13,4 @@ function SecondScreen(){
         </div>
     )
 }
+export default SecondScreen;

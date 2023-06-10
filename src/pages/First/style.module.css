@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
-
 body{
     @apply bg-gray-800;
 }
@@ -22,6 +21,9 @@ body{
 .yellow{
     @apply w-full h-[170px] mt-[30px] bg-yellow-300 rounded-[40px];
 }
+.crown img{
+    @apply bg-white rounded-full w-[100px] h-[100px] mt-[-110px] ml-[87%]
+}
 .w2{
     @apply ml-[20px] mt-[20px] font-[Poppins] font-medium flex flex-col text-5xl;
 }
@@ -37,12 +39,14 @@ input{
 .twoElement{
     @apply mt-[20px] flex flex-row;
 }
-
+.search{
+    @apply bg-gray-800 rounded-3xl cursor-pointer w-[35px] mt-[10px] h-[35px];
+}
 .input{
     @apply flex flex-row;
 }
-.input img{
-    @apply bg-pink-800 rounded-3xl cursor-pointer w-[35px] ml-[10px] mt-[10px] h-[35px];
+.set{
+    @apply bg-[#605094] rounded-3xl cursor-pointer w-[35px] ml-[10px] mt-[10px] h-[35px];
 }
 @media screen and (max-width: 720px), (height: 1600px) {
     .container{
