@@ -14,7 +14,7 @@
     @apply text-3xl text-white font-[Poppins];
 }
 .calendar{
-    @apply flex flex-row ml-[20px];
+    @apply flex flex-row ml-[40px];
 }
 .date{
     @apply text-gray-500 text-[20px] font-[Poppins];
