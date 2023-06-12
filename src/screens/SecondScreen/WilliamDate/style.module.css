@@ -48,7 +48,7 @@
         @apply text-[12px];
     }
     .name{
-        @apply text-[18px] mt-[10px];
+        @apply text-[18px];
     }
     .date1{
         @apply text-[12px];
