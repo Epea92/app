@@ -18,7 +18,7 @@ function WilliamDate(){
                 <div className={style.calendarInfo}>
                     <img className={style.calendar} src={'https://static.vecteezy.com/system/resources/previews/000/292/226/non_2x/business-calendar-vector-icon.jpg'}/>
                     <div className={style.text2}>
-                        <div>
+                        <div className={style.dueMenu}>
                             <a className={style.date1}>Due</a>
                             <a className={style.date2}>date</a>
                         </div>
