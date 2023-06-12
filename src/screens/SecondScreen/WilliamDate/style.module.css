@@ -71,4 +71,7 @@
     .dueMenu{
         @apply mt-[-20px];
     }
+    .due2{
+        @apply mt-[-10px];
+    }
 }
