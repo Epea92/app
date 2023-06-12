@@ -15,6 +15,6 @@
         @apply text-3xl font-[Poppins] text-white;
     }
     .ta{
-        @apply text-[10px] font-[Poppins] text-gray-500 mt-[30px];
+        @apply text-[30px] font-[Poppins] text-gray-500;
     }
 }
