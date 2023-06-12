@@ -28,11 +28,17 @@
 .calendar{
     @apply w-[60px] h-[60px] rounded-full;
 }
-.date{
-    @apply text-gray-500 text-[20px] font-[Poppins];
-}
-.feb{
+.text2{
     @apply text-3xl text-white font-[Poppins];
+}
+.date1{
+    @apply  text-gray-500 text-[20px] font-[Poppins];
+}
+.date2{
+    @apply text-gray-500 text-[20px] font-[Poppins] ml-[5px];
+}
+.feb2{
+    @apply ml-[10px];
 }
 @media screen and (max-width: 720px), (height: 1600px){
     .assigned{
