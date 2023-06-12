@@ -7,7 +7,10 @@
 .william{
     @apply w-[60px] h-[60px] rounded-full;
 }
-.text{
+.text1{
+    @apply flex flex-col ml-[20px];
+}
+.text2{
     @apply flex flex-col ml-[20px];
 }
 .assigned{
@@ -41,7 +44,10 @@
     .feb{
         @apply text-[18px];
     }
-    .text{
+    .text1{
+        @apply w-[200px];
+    }
+    .text2{
         @apply w-[200px];
     }
 }
