@@ -71,7 +71,7 @@ input{
         @apply w-[400px];
     }
     input{
-        @apply w-[350px];
+        @apply w-[335px];
     }
     .elements{
         @apply flex flex-col;
