@@ -1,0 +1,12 @@
+.container{
+    @apply m-[20px];
+}
+.info{
+    @apply flex flex-col;
+}
+.AppDesign{
+    @apply text-5xl font-[Poppins] text-white;
+}
+.ta{
+    @apply text-2xl font-[Poppins] text-gray-500 mt-[10px];
+}

@@ -2,7 +2,7 @@ import React from "react";
 import style from './style.module.css';
 import back from '../../../resources/back.png'
 import settings from '../../../resources/settings.png';
-function FirstPage1(){
+function Header(){
     return(
         <div className={style.container}>
             <div className={style.header}>
@@ -13,4 +13,4 @@ function FirstPage1(){
         </div>
     )
 }
-export default FirstPage1;
+export default Header;
