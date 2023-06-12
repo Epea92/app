@@ -16,3 +16,8 @@ img{
 .member2{
     @apply border-2 rounded-full border-white ml-[-20px];
 }
+@media screen and (max-width: 720px), (height: 1600px) {
+    .teamMember{
+        @apply text-2xl;
+    }
+}
