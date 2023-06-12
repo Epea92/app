@@ -21,8 +21,10 @@ function WilliamDate(){
                             <a className={style.date1}>Due</a>
                             <a className={style.date2}>date</a>
                         </div>
+                        <div>
                             <a className={style.feb1}>Feb</a>
                             <a className={style.feb2}>20</a>
+                        </div>
                     </div>
                 </div>
             </div>
