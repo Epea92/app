@@ -13,7 +13,7 @@
 .name{
     @apply text-3xl text-white font-[Poppins];
 }
-.calendar{
+.calendarInfo{
     @apply flex flex-row ml-[40px];
 }
 .date{
@@ -34,5 +34,8 @@
     }
     .feb{
         @apply text-[18px];
+    }
+    .william{
+        @apply h-[20px];
     }
 }
