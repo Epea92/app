@@ -9,7 +9,14 @@ function TodayUpdate(){
             </div>
             <div className={style.twoElement}>
                 <div className={style.yellow}>
-
+                    <div className={style.round}></div>
+                    <a className={style.tn}>Task Number 1</a>
+                    <a className={style.complete}>(Complete)</a>
+                </div>
+                <div className={style.black}>
+                    <div className={style.round1}></div>
+                    <a className={style.tn1}>Task Number 2</a>
+                    <a className={style.pending}>(Pending)</a>
                 </div>
             </div>
         </div>

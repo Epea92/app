@@ -1,8 +1,35 @@
 .container{
     @apply m-[20px];
 }
+.twoElement{
+    @apply mt-[20px];
+}
 .tu{
     @apply text-4xl text-white font-[Poppins];
+}
+.yellow{
+    @apply flex items-center bg-yellow-200 w-full h-[70px] rounded-3xl;
+}
+.round{
+    @apply w-[40px] h-[40px] bg-none border-8 border-black rounded-full ml-[20px]
+}
+.tn{
+    @apply ml-[10px] text-black text-4xl font-[Poppins];
+}
+.complete{
+    @apply ml-[10px] font-[Poppins];
+}
+.black{
+    @apply flex items-center bg-black w-full h-[70px] rounded-3xl border-2 border-gray-400 mt-[20px];
+}
+.round1{
+    @apply w-[40px] h-[40px] bg-none border-2 border-gray-400 rounded-full ml-[20px]
+}
+.tn1{
+    @apply ml-[10px] text-white text-4xl font-[Poppins];
+}
+.pending{
+    @apply text-white ml-[10px] font-[Poppins];
 }
 @media screen and (max-width: 720px), (height: 1600px) {
     .tu{
