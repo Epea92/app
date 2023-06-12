@@ -10,3 +10,11 @@
 .ta{
     @apply text-2xl font-[Poppins] text-gray-500 mt-[10px];
 }
+@media screen and (max-width: 720px), (height: 1600px) {
+    .AppDesign{
+        @apply text-3xl font-[Poppins] text-white;
+    }
+    .ta{
+        @apply text-[20px] font-[Poppins] text-gray-500 mt-[10px];
+    }
+}
