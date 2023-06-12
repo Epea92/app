@@ -13,3 +13,11 @@
 .name{
     @apply text-3xl text-white font-[Poppins];
 }
+@media screen and (max-width: 720px), (height: 1600px){
+    .assigned{
+        @apply text-[10px];
+    }
+    .name{
+        @apply text-[50px];
+    }
+}
