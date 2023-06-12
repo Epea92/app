@@ -68,7 +68,5 @@
     .due2{
         @apply text-[12px];
     }
-    .calendarInfo{
-        @apply ml-[20px];
-    }
+
 }
