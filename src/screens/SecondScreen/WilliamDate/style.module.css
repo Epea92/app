@@ -45,9 +45,6 @@
         @apply text-[18px];
     }
     .text1{
-        @apply w-[200px];
-    }
-    .text2{
-        @apply w-[200px];
+        @apply flex flex-row;
     }
 }
