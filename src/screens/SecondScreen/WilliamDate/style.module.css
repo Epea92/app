@@ -4,7 +4,7 @@
 .info{
     @apply flex flex-row;
 }
-.william{
+.williamPhoto{
     @apply w-[60px] h-[60px] rounded-full;
 }
 .text1{
