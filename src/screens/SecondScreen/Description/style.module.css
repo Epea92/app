@@ -1,0 +1,12 @@
+.container{
+    @apply m-[20px];
+}
+.menu{
+    @apply flex flex-col;
+}
+.description{
+    @apply text-white font-[Poppins] text-4xl;
+}
+.info{
+    @apply text-gray-500 font-[Poppins];
+}

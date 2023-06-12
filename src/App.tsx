@@ -4,6 +4,8 @@ import SecondPage from "./screens/FirstScreen/SecondPage/SecondPage";
 import Header from "./screens/SecondScreen/Header/Header";
 import AppDesign from "./screens/SecondScreen/AppDesign/AppDesign";
 import WilliamDate from "./screens/SecondScreen/WilliamDate/WilliamDate";
+import Description from "./screens/SecondScreen/Description/Description";
+import TeamMember from "./screens/SecondScreen/TeamMember/TeamMember";
 
 
 
@@ -15,6 +17,8 @@ function App() {
         <Header/>
         <AppDesign/>
         <WilliamDate/>
+        <Description/>
+        <TeamMember/>
     </div>
   );
 }

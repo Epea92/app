@@ -1,0 +1,6 @@
+.container{
+    @apply m-[20px];
+}
+.teamMember{
+    @apply text-white font-[Poppins];
+}
