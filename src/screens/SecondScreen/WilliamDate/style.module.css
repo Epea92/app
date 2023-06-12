@@ -47,7 +47,10 @@
     .name{
         @apply text-[18px];
     }
-    .date{
+    .date1{
+        @apply text-[12px];
+    }
+    .date2{
         @apply text-[12px];
     }
     .feb1{
