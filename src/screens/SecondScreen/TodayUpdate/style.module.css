@@ -35,6 +35,9 @@
     .yellow{
         @apply w-[400px];
     }
+    .black{
+        @apply w-[400px];
+    }
     .tu{
         @apply text-2xl;
     }
