@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 body{
-    @apply bg-gray-800;
+    @apply bg-black;
 }
 .container{
     @apply m-[20px]
@@ -13,7 +13,7 @@ body{
     @apply text-white text-5xl font-mono;
 }
 .menu{
-    @apply ml-[88%] bg-gray-700 rounded-full w-[50px] h-[50px] cursor-pointer;
+    @apply ml-[88%] bg-gray-900 rounded-full w-[50px] h-[50px] cursor-pointer;
 }
 .elements{
     @apply flex justify-center flex-col;
@@ -37,16 +37,13 @@ body{
     @apply bg-white w-[10px] h-[55px] rounded-t-[10px] rounded-b-[10px];
 }
 input{
-    @apply w-[1850px] ml-[10px] mt-[3px] bg-gray-800 text-white;
-}
-input{
-    @apply font-[Poppins];
+    @apply font-[Poppins] w-[1850px] ml-[10px] mt-[3px] bg-black text-white;
 }
 .twoElement{
     @apply mt-[20px] flex flex-row;
 }
 .search{
-    @apply bg-gray-800 rounded-3xl cursor-pointer w-[35px] mt-[10px] h-[35px];
+    @apply bg-black rounded-3xl cursor-pointer w-[35px] mt-[10px] h-[35px];
 }
 .input{
     @apply flex flex-row;

@@ -1,0 +1,15 @@
+.container{
+    @apply m-[20px];
+}
+.header{
+    @apply flex flex-row justify-between;
+}
+.back{
+    @apply bg-gray-900 rounded-full w-[50px] h-[50px] cursor-pointer;
+}
+.details{
+    @apply mt-[20px] text-white font-[Poppins] cursor-pointer;
+}
+.settings{
+    @apply h-[50px] w-[50px] bg-gray-900 rounded-full cursor-pointer;
+}
