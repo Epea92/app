@@ -4,3 +4,8 @@
 .tu{
     @apply text-4xl text-white font-[Poppins];
 }
+@media screen and (max-width: 720px), (height: 1600px) {
+    .tu{
+        @apply text-2xl;
+    }
+}
