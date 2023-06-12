@@ -1,12 +1,12 @@
 import React from "react";
 // @ts-ignore;
 import style from './style.module.css';
-import io from '../../resources/io.png';
-import search from '../../resources/search.png';
-import crown from '../../resources/crown.png';
-import menu from '../../resources/menu.png'
+import io from '../../../resources/io.png'
+import search from '../../../resources/search.png';
+import crown from '../../../resources/crown.png';
+import menu from '../../../resources/menu.png'
 
-function First(){
+function FirstPage(){
     return(
         <div className={style.container}>
             <div className={style.header}>
@@ -37,4 +37,4 @@ function First(){
         </div>
     )
 }
-export default First;
+export default FirstPage;

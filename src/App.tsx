@@ -1,13 +1,14 @@
 import React from 'react';
-import First from "./pages/First/First";
-import Second from "./pages/Second/Second";
+import FirstPage from "./screens/FirstScreen/FirstPage/FirstPage";
+import SecondPage from "./screens/FirstScreen/SecondPage/SecondPage";
+
 
 
 function App() {
   return (
     <div className="App">
-      <First/>
-      <Second/>
+        <FirstPage/>
+        <SecondPage/>
     </div>
   );
 }
