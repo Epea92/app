@@ -24,13 +24,13 @@
 }
 @media screen and (max-width: 720px), (height: 1600px){
     .assigned{
-        @apply text-[10px];
+        @apply text-[12px];
     }
     .name{
         @apply text-[18px];
     }
     .date{
-        @apply text-[10px];
+        @apply text-[12px];
     }
     .feb{
         @apply text-[18px];
