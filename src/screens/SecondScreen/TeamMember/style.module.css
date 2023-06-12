@@ -2,5 +2,17 @@
     @apply m-[20px];
 }
 .teamMember{
-    @apply text-white font-[Poppins];
+    @apply text-white font-[Poppins] text-4xl;
+}
+.member{
+    @apply flex flex-row mt-[20px];
+}
+img{
+    @apply w-[60px] h-[60px] rounded-full border-white;
+}
+.member1{
+    @apply border-2 rounded-full border-white;
+}
+.member2{
+    @apply border-2 rounded-full border-white ml-[-20px];
 }
