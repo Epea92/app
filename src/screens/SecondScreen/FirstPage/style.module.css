@@ -15,9 +15,9 @@
 }
 @media screen and (max-width: 720px), (height: 1600px) {
     .details{
-        @apply ml-[20px];
+        @apply ml-[35px];
     }
     .settings{
-        @apply ml-[20px];
+        @apply ml-[35px];
     }
 }
