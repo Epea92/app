@@ -32,6 +32,9 @@
     @apply text-white ml-[10px] font-[Poppins];
 }
 @media screen and (max-width: 720px), (height: 1600px) {
+    .yellow{
+        @apply w-[400px];
+    }
     .tu{
         @apply text-2xl;
     }
