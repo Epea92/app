@@ -19,6 +19,9 @@
 .name{
     @apply text-3xl text-white font-[Poppins];
 }
+.name2{
+    @apply ml-[10px];
+}
 .calendarInfo{
     @apply flex flex-row ml-[40px];
 }
@@ -43,8 +46,5 @@
     }
     .feb{
         @apply text-[18px];
-    }
-    .text1{
-        @apply flex flex-row;
     }
 }
