@@ -4,8 +4,11 @@
 .info{
     @apply flex flex-row;
 }
+.william{
+    @apply w-[60px] h-[60px] rounded-full;
+}
 .text{
-    @apply flex flex-col;
+    @apply flex flex-col ml-[20px];
 }
 .assigned{
     @apply text-gray-500 text-[20px] font-[Poppins];
@@ -15,6 +18,9 @@
 }
 .calendarInfo{
     @apply flex flex-row ml-[40px];
+}
+.calendar{
+    @apply w-[60px] h-[60px] rounded-full;
 }
 .date{
     @apply text-gray-500 text-[20px] font-[Poppins];
