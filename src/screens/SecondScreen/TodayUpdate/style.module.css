@@ -35,4 +35,10 @@
     .tu{
         @apply text-2xl;
     }
+    .tn{
+        @apply text-2xl;
+    }
+    .tn1{
+        @apply text-2xl;
+    }
 }
