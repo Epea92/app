@@ -1,0 +1,15 @@
+.container{
+    @apply m-[20px];
+}
+.info{
+    @apply flex flex-row;
+}
+.text{
+    @apply flex flex-col;
+}
+.assigned{
+    @apply text-gray-500 text-[20px] font-[Poppins];
+}
+.name{
+    @apply text-3xl text-white font-[Poppins];
+}

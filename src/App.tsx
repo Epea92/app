@@ -3,6 +3,7 @@ import FirstPage from "./screens/FirstScreen/FirstPage/FirstPage";
 import SecondPage from "./screens/FirstScreen/SecondPage/SecondPage";
 import Header from "./screens/SecondScreen/Header/Header";
 import AppDesign from "./screens/SecondScreen/AppDesign/AppDesign";
+import WilliamDate from "./screens/SecondScreen/WilliamDate/WilliamDate";
 
 
 
@@ -13,6 +14,7 @@ function App() {
         <SecondPage/>
         <Header/>
         <AppDesign/>
+        <WilliamDate/>
     </div>
   );
 }
