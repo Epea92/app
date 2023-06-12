@@ -51,10 +51,10 @@
         @apply text-[18px];
     }
     .date1{
-        @apply text-[12px] mt-[10px];
+        @apply text-[12px];
     }
     .date2{
-        @apply text-[12px] mt-[10px];
+        @apply text-[12px];
     }
     .feb1{
         @apply text-[18px];
