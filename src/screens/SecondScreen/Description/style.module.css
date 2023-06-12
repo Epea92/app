@@ -12,6 +12,6 @@
 }
 @media screen and (max-width: 720px), (height: 1600px) {
     .info{
-        @apply text-[20px]
+        @apply text-[10px]
     }
 }
