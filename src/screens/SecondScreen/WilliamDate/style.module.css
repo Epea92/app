@@ -42,6 +42,6 @@
         @apply text-[18px];
     }
     .text{
-        @apply h-auto w-auto;
+        @apply w-200px;
     }
 }
