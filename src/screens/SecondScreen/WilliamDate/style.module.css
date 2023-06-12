@@ -50,7 +50,17 @@
     .date{
         @apply text-[12px];
     }
-    .feb{
+    .feb1{
         @apply text-[18px];
     }
+    .feb2{
+        @apply text-[18px];
+    }
+    .due1{
+        @apply text-[12px];
+    }
+    .due2{
+        @apply text-[12px];
+    }
+
 }
