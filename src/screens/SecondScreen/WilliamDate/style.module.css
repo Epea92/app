@@ -41,4 +41,7 @@
     .feb{
         @apply text-[18px];
     }
+    .text{
+        @apply h-auto w-auto;
+    }
 }
