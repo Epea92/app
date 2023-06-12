@@ -7,6 +7,9 @@
 .williamPhoto{
     @apply w-[60px] h-[60px] rounded-full;
 }
+.william{
+    @apply flex flex-row;
+}
 .text1{
     @apply flex flex-col ml-[20px];
 }
