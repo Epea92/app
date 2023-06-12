@@ -7,13 +7,12 @@ function WilliamDate(){
     return(
         <div className={style.container}>
             <div className={style.info}>
-                {/*<img className={william} src={william}/>*/}
                 <div className={style.text}>
                     <a className={style.assigned}>Assigned to</a>
                     <a className={style.name}>William Smith</a>
                 </div>
                 <div className={style.calendarInfo}>
-                    {/*<img className={style.calendar} src={calendar}/>*/}
+                    <img className={style.calendar} src={calendar}/>
                     <div className={style.text}>
                         <a className={style.date}>Due date</a>
                         <a className={style.feb}>Feb 20</a>
