@@ -45,16 +45,16 @@
 }
 @media screen and (max-width: 720px), (height: 1600px){
     .assigned{
-        @apply text-[12px];
+        @apply text-[12px] mt-[10px];
     }
     .name{
         @apply text-[18px];
     }
     .date1{
-        @apply text-[12px];
+        @apply text-[12px] mt-[10px];
     }
     .date2{
-        @apply text-[12px];
+        @apply text-[12px] mt-[10px];
     }
     .feb1{
         @apply text-[18px];
