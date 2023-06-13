@@ -7,10 +7,11 @@ function Header(){
     return(
         <div className={style.container}>
             <div className={style.header}>
-                <Link to={'/'}>
-                    <img className={style.back} src={back}/>
-                </Link>
-
+                <div className={style.backBlock}>
+                    <Link to={'/'}>
+                        <img className={style.back} src={back}/>
+                    </Link>
+                </div>
                 <a className={style.details}>Details</a>
                 <img className={style.settings} src={settings}/>
             </div>
