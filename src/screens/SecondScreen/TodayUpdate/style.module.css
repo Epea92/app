@@ -17,7 +17,7 @@
     @apply ml-[10px] text-black text-4xl font-[Poppins];
 }
 .complete{
-    @apply ml-[10px] font-[Poppins];
+    @apply ml-[10px] font-[Poppins] font-bold;
 }
 .black{
     @apply flex items-center bg-black w-full h-[70px] rounded-3xl border-2 border-gray-400 mt-[20px];
@@ -29,7 +29,7 @@
     @apply ml-[10px] text-white text-4xl font-[Poppins];
 }
 .pending{
-    @apply text-white ml-[10px] font-[Poppins];
+    @apply font-bold text-white ml-[10px] font-[Poppins];
 }
 @media screen and (max-width: 720px), (height: 1600px) {
     .yellow{
