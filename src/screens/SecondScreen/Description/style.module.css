@@ -11,6 +11,9 @@
     @apply flex flex-row text-gray-500 font-[Poppins];
 }
 @media screen and (max-width: 720px), (height: 1600px) {
+    .container{
+        @apply m-0
+    }
     .description{
         @apply text-2xl;
     }
