@@ -38,11 +38,13 @@ function SecondPage(){
             <div className={style.elements3}>
                 <div className={style.first1}>
                     <img src={hands}/>
+                    <a className={style.info}>INFO</a>
                 </div>
 
 
                 <div className={style.second1}>
                     <img src={dribble}/>
+                    <a className={style.info}>DRIBBBLE</a>
                 </div>
 
             </div>
