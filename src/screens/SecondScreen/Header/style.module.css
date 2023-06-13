@@ -14,10 +14,5 @@
     @apply h-[50px] w-[50px] bg-gray-900 rounded-full cursor-pointer;
 }
 @media screen and (max-width: 720px), (height: 1600px) {
-    .details{
-        @apply ml-[70px];
-    }
-    .settings{
-        @apply ml-[70px];
-    }
+
 }
