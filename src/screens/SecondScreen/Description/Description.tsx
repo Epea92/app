@@ -10,7 +10,6 @@ function Description(){
                 <a className={style.info}>trendy. In this app we need every features and</a>
                 <a className={style.info}>section about task manager</a>
             </div>
-
         </div>
     )
 }
