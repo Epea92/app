@@ -18,6 +18,6 @@
         @apply ml-[40%];
     }
     .settings{
-        @apply ml-[100px];
+        @apply ml-[120px];
     }
 }
