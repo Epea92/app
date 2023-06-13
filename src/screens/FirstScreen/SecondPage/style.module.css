@@ -80,7 +80,7 @@
     .second1 img{
         @apply w-[80px] h-[80px];
     }
-    .AppDesign{
+    .info{
         @apply ml-[20px] text-white font-[Poppins] font-bold text-[20px];
     }
 }

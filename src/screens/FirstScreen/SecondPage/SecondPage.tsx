@@ -22,7 +22,7 @@ function SecondPage(){
                 <div className={style.first}>
                 <Link to={'/app-design'}>
                     <img src={phone}/>
-                    <a className={style.AppDesign}>
+                    <a className={style.info}>
                         APP DESIGN
                     </a>
                 </Link>
@@ -30,6 +30,7 @@ function SecondPage(){
 
                 <div className={style.second}>
                     <img src={laptop}/>
+                    <a className={style.info}>WEB</a>
                 </div>
 
 
