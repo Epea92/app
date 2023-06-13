@@ -5,8 +5,11 @@
     @apply flex flex-row;
 }
 .back{
-    @apply bg-gray-900 rounded-full w-[50px] h-[50px] cursor-pointer;
+    @apply text-white ml-[10px] mt-[10px] font-bold font-[Poppins]
 }
+.backBlock{
+     @apply w-[60px] h-[30px] rounded-[10px] ml-[20px] bg-gray-900;
+ }
 .details{
     @apply mt-[20px] text-white font-[Poppins] cursor-pointer ml-[45%];
 }
@@ -14,9 +17,6 @@
     @apply h-[50px] w-[50px] bg-gray-900 rounded-full cursor-pointer ml-[800px];
 }
 @media screen and (max-width: 720px), (height: 1600px) {
-    .backBlock{
-        @apply w-[80px] ml-[20px];
-    }
     .back{
         @apply ml-[20px];
     }
