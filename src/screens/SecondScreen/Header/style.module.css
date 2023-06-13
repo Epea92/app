@@ -14,13 +14,10 @@
     @apply h-[50px] w-[50px] bg-gray-900 rounded-full cursor-pointer ml-[800px];
 }
 @media screen and (max-width: 720px), (height: 1600px) {
-    .back{
-        @apply ml-[20px];
-    }
     .details{
-        @apply ml-[40%];
+        @apply ml-[55%];
     }
     .settings{
-        @apply ml-[120px];
+        @apply ml-[140px];
     }
 }
