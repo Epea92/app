@@ -9,7 +9,6 @@ function Main(){
         <>
             <FirstPage/>
             <SecondPage/>
-            <AppDesign/>
         </>
     )
 }

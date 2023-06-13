@@ -22,8 +22,6 @@ function SecondPage(){
                     <img src={phone}/>
                 </div>
 
-
-
                 <div className={style.second}>
                     <img src={laptop}/>
                 </div>
