@@ -81,6 +81,9 @@
         @apply w-[80px] h-[80px];
     }
     .AppDesign{
-        @apply ml-[20px] text-white font-[Poppins];
+        @apply ml-[20px] text-white font-[Poppins] font-bold text-2xl;
+    }
+    .AppDesignInfo{
+        @apply text-gray-500 ml-[20px] font-[Poppins] font-bold text-[15px];
     }
 }

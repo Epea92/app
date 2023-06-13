@@ -25,6 +25,9 @@ function SecondPage(){
                     <a className={style.AppDesign}>
                         APP DESIGN
                     </a>
+                <a className={style.AppDesignInfo}>
+                    App Design TAsk
+                </a>
                 </Link>
                 </div>
 
