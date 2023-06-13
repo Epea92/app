@@ -31,7 +31,7 @@ function FirstPage(){
                 </div>
                 <div className={style.inputMenu}>
                     <div className={style.l1}></div>
-                    <div className={style.input}><img className={style.search} src={search}/><input placeholder={'Search Anything'}/><img className={style.set} src={io}/></div>
+                    <div className={style.input}><img className={style.search} src={search}/><input placeholder={'Search Anything'}/></div>
                 </div>
             </div>
         </div>
