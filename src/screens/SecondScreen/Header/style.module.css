@@ -15,7 +15,7 @@
 }
 @media screen and (max-width: 720px), (height: 1600px) {
     .backBlock{
-        @apply w-[30px] ml-[20px];
+        @apply w-[80px] ml-[20px];
     }
     .back{
         @apply ml-[20px];
