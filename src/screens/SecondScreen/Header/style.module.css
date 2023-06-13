@@ -14,7 +14,7 @@
     @apply h-[50px] w-[50px] bg-gray-900 rounded-full cursor-pointer ml-[800px];
 }
 @media screen and (max-width: 720px), (height: 1600px) {
-    .back{
+    .backBlock{
         @apply w-[30px] ml-[20px];
     }
     .details{
