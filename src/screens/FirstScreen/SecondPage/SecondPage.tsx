@@ -4,6 +4,7 @@ import phone from '../../../resources/phone.png'
 import hands from '../../../resources/hands.png';
 import laptop from '../../../resources/laptop.png'
 import dribble from '../../../resources/dribble.png'
+import {Link, Route, Routes} from "react-router-dom";
 function SecondPage(){
     return(
         <div className={style.secondPage}>
@@ -19,7 +20,12 @@ function SecondPage(){
 
             <div className={style.elements2}>
                 <div className={style.first}>
+                <Link to={'/app-design'}>
                     <img src={phone}/>
+                    <a className={style.AppDesign}>
+                        APP DESIGN
+                    </a>
+                </Link>
                 </div>
 
                 <div className={style.second}>
