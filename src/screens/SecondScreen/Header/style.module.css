@@ -17,6 +17,9 @@
     .backBlock{
         @apply w-[30px] ml-[20px];
     }
+    .back{
+        @apply ml-[20px];
+    }
     .details{
         @apply ml-[40%];
     }
