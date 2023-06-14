@@ -15,7 +15,7 @@
 }
 @media screen and (max-width: 720px), (height: 1600px) {
     .back{
-        @apply ml-[10px];
+        @apply w-[50px] h-[50px] ml-[10px];
     }
     .details{
         @apply ml-[40%];
