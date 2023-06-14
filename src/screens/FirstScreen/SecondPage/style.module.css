@@ -17,7 +17,7 @@
     @apply flex flex-row items-center justify-between w-full h-[20vh] bg-transparent mt-4;
 }
 .block1{
-    @apply flex flex-col w-[60%] h-full bg-[#46546f] rounded-3xl py-2 cursor-pointer;
+    @apply flex flex-col w-[60%] h-[220px] bg-[#46546f] rounded-3xl py-2 cursor-pointer;
 }
 .block1_1{
     @apply flex flex-col w-[100%] h-full bg-[#46546f] rounded-3xl ps-4 py-4 cursor-pointer;
@@ -36,13 +36,13 @@
     @apply text-gray-400;
 }
 .block2{
-    @apply flex flex-col w-[35%] h-full bg-[#654645] rounded-3xl p-4;
+    @apply flex flex-col w-[35%] h-[220px] bg-[#654645] rounded-3xl p-4;
 }
 .block3{
-    @apply flex flex-col w-[40%] h-full bg-[#466566] rounded-3xl p-4;
+    @apply flex flex-col w-[40%] h-[220px] bg-[#466566] rounded-3xl p-4 mt-[40px];
 }
 .block4{
-    @apply flex flex-col w-[55%] h-full bg-[#4b2934] rounded-3xl p-4;
+    @apply flex flex-col w-[55%] h-[220px] bg-[#4b2934] rounded-3xl p-4 mt-[40px];
 }
 @media only screen and (max-width: 420px) {
     .but{
