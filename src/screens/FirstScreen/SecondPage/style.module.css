@@ -48,7 +48,7 @@
 }
 @media screen and (max-width: 720px), (height: 1600px) {
     .first{
-        @apply flex flex-col w-[100vh] h-[190px] rounded-[40px];
+        @apply flex flex-col w-[120vh] h-[190px] rounded-[40px];
     }
     .p1 a{
         @apply text-2xl;
