@@ -62,7 +62,7 @@ input{
         @apply bg-white w-[10px] h-[50px] rounded-t-[10px] rounded-b-[10px];
     }
     .yellow{
-        @apply w-[400px];
+        @apply w-[350px];
     }
     input{
         @apply w-[300px];
@@ -74,6 +74,6 @@ input{
         @apply mt-[27px] ml-[-450px];
     }
     .menu{
-        @apply ml-[60%];
+        @apply ml-[55%];
     }
 }
