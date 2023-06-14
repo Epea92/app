@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@200&family=Poppins:ital,wght@0,200;0,400;0,600;1,300&display=swap');
 
 .container{
-    @apply w-full h-auto text-white mt-8
+    @apply w-full h-auto text-white mt-8;
 }
 .title{
-    @apply flex flex-row items-center justify-between w-full h-[4vh] font-sans
+    @apply flex flex-row items-center justify-between w-full h-[4vh] font-sans;
 }
 .pt{
     @apply text-2xl font-bold font-[Poppins];
@@ -14,51 +14,51 @@
     @apply text-green-500 font-bold font-[Poppins];
 }
 .line {
-    @apply flex flex-row items-center justify-between w-full h-[20vh] bg-transparent mt-4
+    @apply flex flex-row items-center justify-between w-full h-[20vh] bg-transparent mt-4;
 }
 .block1{
-    @apply flex flex-col w-[60%] h-full bg-[#46546f] rounded-3xl py-2 cursor-pointer
+    @apply flex flex-col w-[60%] h-full bg-[#46546f] rounded-3xl py-2 cursor-pointer;
 }
 .block1_1{
-    @apply flex flex-col w-[100%] h-full bg-[#46546f] rounded-3xl ps-4 py-4 cursor-pointer
+    @apply flex flex-col w-[100%] h-full bg-[#46546f] rounded-3xl ps-4 py-4 cursor-pointer;
 }
 .inline{
-    @apply flex flex-row items-center justify-between h-[60%]
+    @apply flex flex-row items-center justify-between h-[60%];
 }
 .but{
-    @apply flex flex-row items-center justify-center w-[15%] h-[4vh] bg-white text-black rounded-l-full text-base
+    @apply flex flex-row justify-center w-[15%] h-[4vh] bg-white text-black rounded-l-full text-base;
 }
 .text{
     font-family: 'Noto Sans JP', sans-serif;
-    @apply text-3xl font-bold
+    @apply text-3xl font-bold;
 }
 .text2{
-    @apply text-gray-400
+    @apply text-gray-400;
 }
 .block2{
-    @apply flex flex-col w-[35%] h-full bg-[#654645] rounded-3xl p-4
+    @apply flex flex-col w-[35%] h-full bg-[#654645] rounded-3xl p-4;
 }
 .block3{
-    @apply flex flex-col w-[40%] h-full bg-[#466566] rounded-3xl p-4
+    @apply flex flex-col w-[40%] h-full bg-[#466566] rounded-3xl p-4;
 }
 .block4{
-    @apply flex flex-col w-[55%] h-full bg-[#4b2934] rounded-3xl p-4
+    @apply flex flex-col w-[55%] h-full bg-[#4b2934] rounded-3xl p-4;
 }
 @media only screen and (max-width: 420px) {
     .but{
-        @apply flex flex-row items-center justify-center w-[55%] h-[4vh] bg-white text-black rounded-l-full text-sm
+        @apply flex flex-row items-center justify-center w-[55%] h-[4vh] bg-white text-black rounded-l-full text-sm;
     }
     .inline img:first-child{
-        @apply h-[75%]
+        @apply h-[75%];
     }
     .inline img{
-        @apply h-[50%]
+        @apply h-[50%];
     }
     .text{
         font-family: 'Noto Sans JP', sans-serif;
-        @apply text-2xl font-bold
+        @apply text-2xl font-bold;
     }
     .text2{
-        @apply text-gray-400 text-sm
+        @apply text-gray-400 text-sm;
     }
 }
