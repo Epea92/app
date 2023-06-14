@@ -69,10 +69,10 @@
         @apply mt-[10px];
     }
     .first1{
-        @apply flex flex-col w-[320px] h-[190px] rounded-[40px];
+        @apply flex flex-col w-[100px] h-[190px] rounded-[40px];
     }
     .second1{
-        @apply flex flex-col ml-[20px] w-[100vh] h-[190px] rounded-[40px];
+        @apply flex flex-col ml-[20px] w-[120vh] h-[190px] rounded-[40px];
     }
     .first1 img{
         @apply w-[70px] h-[70px];
