@@ -62,10 +62,10 @@ input{
         @apply bg-white w-[10px] h-[50px] rounded-t-[10px] rounded-b-[10px];
     }
     .yellow{
-        @apply w-[390px];
+        @apply w-[400px];
     }
     input{
-        @apply w-[290px];
+        @apply w-[300px];
     }
     .elements{
         @apply flex flex-col;
