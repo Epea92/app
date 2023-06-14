@@ -69,7 +69,7 @@
         @apply mt-[10px];
     }
     .first1{
-        @apply flex flex-col w-[230px] h-[190px] rounded-[40px];
+        @apply flex flex-col w-[280px] h-[190px] rounded-[40px];
     }
     .second1{
         @apply flex flex-col ml-[20px] w-[350px] h-[190px] rounded-[40px];
