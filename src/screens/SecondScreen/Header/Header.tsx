@@ -2,13 +2,15 @@ import React from "react";
 import style from './style.module.css';
 import settings from '../../../resources/settings.png';
 import {Link} from "react-router-dom";
+import back from '../../../resources/back.png';
+
 function Header(){
     return(
         <div className={style.container}>
             <div className={style.header}>
                 <div className={style.backBlock}>
                     <Link to={'/'}>
-                        <a className={style.back}>BACK</a>
+                        <img className={style.back} src={back}></img>
                     </Link>
                 </div>
                 <a className={style.details}>Details</a>

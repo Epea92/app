@@ -1,15 +1,12 @@
-.container{
-    @apply m-[10px];
-}
 .header{
     @apply flex flex-row;
 }
-.back{
-    @apply text-white ml-[10px] mt-[20px] font-bold font-[Poppins]
-}
 .backBlock{
-     @apply w-[60px] h-[30px] rounded-[10px] ml-[20px] bg-gray-900;
- }
+     @apply w-[55px] h-[55px] rounded-full ml-[20px] bg-gray-900;
+}
+.back{
+    @apply w-[55px] h-[55px];
+}
 .details{
     @apply mt-[20px] text-white font-[Poppins] cursor-pointer ml-[45%];
 }
