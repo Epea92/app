@@ -8,8 +8,9 @@ import TodayUpdate from "../TodayUpdate/TodayUpdate";
 
 function AppDesign(){
     return(
-        <div className={style.container}>
+        <div>
             <Header/>
+        <div className={style.container}>
             <div className={style.info}>
                 <a className={style.AppDesign}>App Design</a>
                 <a className={style.ta}>Task manager ui kit</a>
@@ -18,6 +19,7 @@ function AppDesign(){
                 <TeamMember/>
                 <TodayUpdate/>
             </div>
+        </div>
         </div>
     )
 }
