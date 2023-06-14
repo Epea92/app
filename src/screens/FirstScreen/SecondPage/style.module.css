@@ -52,7 +52,7 @@
         @apply h-[75%];
     }
     .inline img{
-        @apply h-[60px];
+        @apply h-[60px] mt-[-25px];
     }
     .text{
         font-family: 'Noto Sans JP', sans-serif;
