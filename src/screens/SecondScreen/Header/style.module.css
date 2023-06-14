@@ -5,7 +5,7 @@
     @apply flex flex-row;
 }
 .back{
-    @apply text-white ml-[10px] mt-[10px] font-bold font-[Poppins]
+    @apply text-white ml-[10px] mt-[20px] font-bold font-[Poppins]
 }
 .backBlock{
      @apply w-[60px] h-[30px] rounded-[10px] ml-[20px] bg-gray-900;
