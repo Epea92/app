@@ -32,12 +32,12 @@ function SecondPage(){
             </div>
             <div className={style.line}>
                 <div className={style.block3}>
-                    <div className={style.inline}><img src={clients}/></div>
+                    <div className={style.inline1}><img src={clients}/></div>
                     <div className={style.text}>CLIENT</div>
                     <div className={style.text2}>Ave studio des...</div>
                 </div>
                 <div className={style.block4}>
-                    <div className={style.inline}><img src={ball}/></div>
+                    <div className={style.inline1}><img src={ball}/></div>
                     <div className={style.text}>DRIBBBLE</div>
                     <div className={style.text2}>Create dribbble shot</div>
                 </div>
