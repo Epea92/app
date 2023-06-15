@@ -49,7 +49,7 @@
         @apply flex flex-row items-center justify-center mt-[-50px] w-[55%] h-[4vh] bg-white text-black rounded-l-full text-sm;
     }
     .inline img:first-child{
-        @apply h-[120px];
+        @apply h-[80px];
     }
     .inline img{
         @apply  mt-[-30px];
