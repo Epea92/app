@@ -17,9 +17,6 @@
     .back{
         @apply w-[50px] h-[50px];
     }
-    .details{
-        @apply ml-[30%];
-    }
     .settings{
         @apply ml-[65px];
     }
