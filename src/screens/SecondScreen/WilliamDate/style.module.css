@@ -26,7 +26,7 @@
     @apply ml-[10px];
 }
 .calendarInfo{
-    @apply flex flex-row ml-[40px] ;
+    @apply flex flex-row ml-[10px] ;
 }
 .calendar{
     @apply w-[60px] h-[60px] rounded-full;
