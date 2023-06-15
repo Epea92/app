@@ -51,7 +51,7 @@
     .inline img:first-child{
         @apply h-[80px];
     }
-    .inline1 img{
+    .inline img{
         @apply mt-[-30px];
     }
     .text{
