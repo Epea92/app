@@ -44,7 +44,7 @@
 .block4{
     @apply flex flex-col w-[55%] h-full bg-[#4b2934] rounded-3xl p-4;
 }
-@media only screen and (max-width: 420px) {
+@media only screen and (max-width: 720px), (max-height: 1600px) {
     .but{
         @apply flex flex-row items-center justify-center mt-[-50px] w-[55%] h-[4vh] bg-white text-black rounded-l-full text-sm;
     }
